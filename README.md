@@ -1,10 +1,10 @@
 
 ### 三国卡牌Roguelike
 
-![](./img/SanguoQuest.png)
+![](./img/SanguoQuest.png){:height="50%" width="50%"}
 
 * 玩法：类似月圆之夜
-* Demo: https://livingyang.github.io/SanguoQuestDemo/
+* Demo: [https://livingyang.github.io/SanguoQuestDemo/]
 
 
 * 三国自走棋
