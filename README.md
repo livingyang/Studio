@@ -1,11 +1,9 @@
-
 ### 三国卡牌Roguelike
 
 ![](./img/SanguoQuest.png){:height="50%" width="50%"}
 
 * 玩法：类似月圆之夜，
 * Demo：[https://livingyang.github.io/SanguoQuestDemo/](https://livingyang.github.io/SanguoQuestDemo/)
-
 
 ### 三国贪食蛇Roguelike
 
@@ -14,15 +12,18 @@
 * Demo: [https://livingyang.github.io/sanguorush-demo/docs/web-desktop/](https://livingyang.github.io/sanguorush-demo/docs/web-desktop/)
 
 * 三国自走棋
+![](./img/SanguoAutoChess.png){:height="50%" width="50%"}
+* 玩法：基于三国曹操传引擎的自走棋玩法
 
-### 棋类
+### 黑白棋
+![](./img/reversi.jpg){:height="50%" width="50%"}
+* 玩法：经典的黑白棋
 
-* 黑白棋
-* 双陆棋
-* 四子棋
-* 井字棋
-* 五子棋
-* 飞行棋
+### 双陆棋
+### 四子棋
+### 井字棋
+### 五子棋
+### 飞行棋
 
 ### 物理游戏
 
