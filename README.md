@@ -1,7 +1,7 @@
 
 ### 三国卡牌Roguelike
 
-![alt 图标]("img/SanguoQuest.png")
+![alt 图标](img/SanguoQuest.png)
 
 * 玩法：类似月圆之夜
 * Demo: https://livingyang.github.io/SanguoQuestDemo/
