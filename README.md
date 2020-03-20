@@ -18,7 +18,7 @@
 ### RollingFall 砸僵尸
 ![](./img/rollingfall.jpg){:height="50%" width="50%"}
 * 玩法：割断链条砸僵尸的物理游戏
-* 主页: https://apps.apple.com/cn/app/rolling-fall-hd/id447751160
+* 主页: [https://apps.apple.com/cn/app/rolling-fall-hd/id447751160](https://apps.apple.com/cn/app/rolling-fall-hd/id447751160)
 
 ### 黑白棋
 ![](./img/reversi.jpg){:height="50%" width="50%"}
