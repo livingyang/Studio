@@ -20,7 +20,7 @@
 * 玩法：经典的黑白棋
 
 ### 双陆棋
-![](./img/backgammon.jpg){:height="50%" width="50%"}
+![](./img/backgammon.jpeg){:height="50%" width="50%"}
 * 玩法：经典的双陆棋
 
 ### 四子棋
@@ -32,7 +32,7 @@
 * 玩法：经典的四子棋
 
 ### 五子棋
-![](./img/connnectfive.jpg){:height="50%" width="50%"}
+![](./img/connectfive.jpg){:height="50%" width="50%"}
 * 玩法：经典的四子棋
 
 ### 飞行棋
