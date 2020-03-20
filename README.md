@@ -15,6 +15,11 @@
 ![](./img/SanguoAutoChess.png){:height="50%" width="50%"}
 * 玩法：基于三国曹操传引擎的自走棋玩法
 
+### RollingFall 砸僵尸
+![](./img/rollingfall.jpg){:height="50%" width="50%"}
+* 玩法：割断链条砸僵尸的物理游戏
+* 主页: https://apps.apple.com/cn/app/rolling-fall-hd/id447751160
+
 ### 黑白棋
 ![](./img/reversi.jpg){:height="50%" width="50%"}
 * 玩法：经典的黑白棋
@@ -38,12 +43,3 @@
 ### 飞行棋
 ![](./img/ludo.jpg){:height="50%" width="50%"}
 * 玩法：经典的四子棋
-
-### 物理游戏
-
-* Rolling Fall 砸僵尸
-
-### 休闲游戏
-
-* 打鬼子
-
