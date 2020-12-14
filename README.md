@@ -1,10 +1,14 @@
-
-
 ### 小游戏-2048轻音版
 
 ![](./img/2048qrcode.jpg){:height="50%" width="50%"}
 ![](./img/2048image.jpg){:height="50%" width="50%"}
 * 玩法：2048轻音版，休闲一下，解解谜，弹弹琴
+
+### 小游戏-飞机大战三国
+
+![](./img/airplanesanguo.jpg){:height="50%" width="50%"}
+![](./img/airplanesanguo-image.jpg){:height="50%" width="50%"}
+* 玩法：一款休闲的飞机游戏，操作三国武将在飞机游戏中大战敌兵。
 
 ### 三国卡牌Roguelike
 
