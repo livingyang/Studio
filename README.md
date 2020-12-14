@@ -1,3 +1,11 @@
+
+
+### 小游戏-2048轻音版
+
+![](./img/2048qrcode.jpg){:height="50%" width="50%"}
+![](./img/2048image.jpg){:height="50%" width="50%"}
+* 玩法：2048轻音版，休闲一下，解解谜，弹弹琴
+
 ### 三国卡牌Roguelike
 
 ![](./img/SanguoQuest.png){:height="50%" width="50%"}
